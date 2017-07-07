@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="5">
+    <value name="AccessPassword">0</value>
+    <value name="AutoDisableBluetooth">0</value>
+    <value name="AutoEnableBluetooth">1</value>
+    <value name="BaudRate">9600</value>
+    <value name="Bits">8</value>
+    <value name="ConnectionType">1</value>
+    <value name="DeviceName">Device #1</value>
+    <value name="IPAddress">192.168.0.123</value>
+    <value name="IPPort">5555</value>
+    <value name="MACAddress"></value>
+    <value name="Model">63</value>
+    <value name="OfdPort">NONE</value>
+    <value name="Parity">0</value>
+    <value name="Port">TTY</value>
+    <value name="Protocol">0</value>
+    <value name="SearchDir">/home/user/ATOL/linux-x86/</value>
+    <value name="StopBits">0</value>
+    <value name="TTYSuffix">ttyACM0</value>
+    <value name="UserPassword">30</value>
+</settings>
